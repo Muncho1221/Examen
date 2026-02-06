@@ -1,0 +1,14 @@
+C:\Users\AlexM\OneDrive\Desktop\j\bin\Debug\net10.0\j.exe
+C:\Users\AlexM\OneDrive\Desktop\j\bin\Debug\net10.0\j.deps.json
+C:\Users\AlexM\OneDrive\Desktop\j\bin\Debug\net10.0\j.runtimeconfig.json
+C:\Users\AlexM\OneDrive\Desktop\j\bin\Debug\net10.0\j.dll
+C:\Users\AlexM\OneDrive\Desktop\j\bin\Debug\net10.0\j.pdb
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\j.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\j.AssemblyInfoInputs.cache
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\j.AssemblyInfo.cs
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\j.csproj.CoreCompileInputs.cache
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\j.dll
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\refint\j.dll
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\j.pdb
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\j.genruntimeconfig.cache
+C:\Users\AlexM\OneDrive\Desktop\j\obj\Debug\net10.0\ref\j.dll
